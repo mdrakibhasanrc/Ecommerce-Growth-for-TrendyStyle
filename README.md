@@ -23,21 +23,22 @@ Trendy is a rapidly growing eCommerce fashion retailer offering a diverse collec
 
 ## Challenges: 
 
-    High Cart Abandonment:  A significant number of users were adding products to the cart  but 
-    leaving without completing the purchase.
-    
-   Poor Conversion Rates: Despite good traffic, the website struggled to convert visitors into 
-   paying customers.
 
-   Fragmented Data Insights: The client had limited visibility into customer behavior and key 
-   performance indicators (KPIs), making it difficult to make informed marketing and optimization 
-   decisions.
+     High Cart Abandonment:  A significant number of users were adding products to the cart  but 
+     leaving without completing the purchase.
+     
+     Poor Conversion Rates: Despite good traffic, the website struggled to convert visitors into 
+     paying customers.
 
-  Mobile Optimization: The mobile version of the site was not optimized, resulting in lower 
-  conversions on mobile devices.
+     Fragmented Data Insights: The client had limited visibility into customer behavior and key 
+     performance indicators (KPIs), making it difficult to make informed marketing and 
+     optimization decisions.
 
- Inefficient Checkout Process: The checkout process was long, complex, and lacked trust signals, 
- leading to cart abandonment at the final stage.
+     Mobile Optimization: The mobile version of the site was not optimized, resulting in lower 
+     conversions on mobile devices.
+
+     Inefficient Checkout Process: The checkout process was long, complex, and lacked trust 
+     signals, leading to cart abandonment at the final stage.
 
 
 ## Solution: A 3-Step Approach:
