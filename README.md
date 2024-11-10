@@ -22,19 +22,32 @@ Trendy is a rapidly growing eCommerce fashion retailer offering a diverse collec
    ** Creating Dashboard for Tracking Metrics
 
 ## Challenges: 
-    High Cart Abandonment:  A significant number of users were adding products to the cart  but leaving without completing the purchase.
+    High Cart Abandonment:  A significant number of users were adding products to the cart  but 
+    leaving without completing the purchase.
     
- Poor Conversion Rates: Despite good traffic, the website struggled to convert visitors into 
-paying customers.
+   Poor Conversion Rates: Despite good traffic, the website struggled to convert visitors into 
+   paying customers.
 
-Fragmented Data Insights: The client had limited visibility into customer behavior and key performance indicators (KPIs), making it difficult to make informed marketing and optimization decisions.
+   Fragmented Data Insights: The client had limited visibility into customer behavior and key 
+   performance indicators (KPIs), making it difficult to make informed marketing and optimization 
+   decisions.
 
-Mobile Optimization: The mobile version of the site was not optimized, resulting in lower conversions on mobile devices.
+  Mobile Optimization: The mobile version of the site was not optimized, resulting in lower 
+  conversions on mobile devices.
 
-Inefficient Checkout Process: The checkout process was long, complex, and lacked trust signals, leading to cart abandonment at the final stage.
+ Inefficient Checkout Process: The checkout process was long, complex, and lacked trust signals, 
+ leading to cart abandonment at the final stage.
 
 
+## Solution: A 3-Step Approach:
+To address the challenges and achieve the client’s goals, I employed a 3-step approach:
+      I) Data Analytics
+      
+      II) Powerful Reporting & Insight
+      
+      III) Conversion Rate Optimization Audit & Recomendetion.
 
+ This approach was designed to uncover actionable insights, provide the client with clear performance metrics, and drive tangible improvements in eCommerce performance.
 
 
 
