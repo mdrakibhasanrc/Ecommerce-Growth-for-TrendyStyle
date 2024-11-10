@@ -22,6 +22,7 @@ Trendy is a rapidly growing eCommerce fashion retailer offering a diverse collec
    ** Creating Dashboard for Tracking Metrics
 
 ## Challenges: 
+
     High Cart Abandonment:  A significant number of users were adding products to the cart  but 
     leaving without completing the purchase.
     
@@ -41,6 +42,7 @@ Trendy is a rapidly growing eCommerce fashion retailer offering a diverse collec
 
 ## Solution: A 3-Step Approach:
 To address the challenges and achieve the client’s goals, I employed a 3-step approach:
+
       I) Data Analytics
       
       II) Powerful Reporting & Insight
@@ -50,9 +52,33 @@ To address the challenges and achieve the client’s goals, I employed a 3-step 
  This approach was designed to uncover actionable insights, provide the client with clear performance metrics, and drive tangible improvements in eCommerce performance.
 
 
+## Step 1: Data Analytics:
+
+The first step was to gather and analyze all available data to uncover critical insights into customer behavior, conversion trends, and website performance. This process laid the foundation for the CRO strategies that followed.
+
+  ### Data Integration & Analysis: 
+  
+        I) Data Integration:Set up Google Analytics 4 (GA4) and integrated it with BigQuery to 
+           collect and analyze website traffic, user behavior, and product performance data. This 
+           integration allowed for more advanced queries and deeper analysis of user journeys
+
+       II) Customer Segmentation: Used Custom SQL Query, and DBT to segment customers into cohorts 
+           based on their behavior (new vs. returning customers, high-value vs. low-value 
+           customers). This  helped to understand purchasing patterns and areas for retention and 
+           upselling.
+
+      III) Funnel Analysis: Conducted a funnel analysis to identify where users were dropping off 
+           in the conversion  process. Using GA4 and BigQuery, I tracked key user interactions, 
+           from landing pages to  checkout completion. 
+
+      IV) Funnel Analysis: Combined heatmaps from Hotjar and session recordings to visually 
+          understand user interactions on key pages. Insights showed that users were not scrolling 
+          past the first two product images on certain product pages, suggesting that these pages 
+          could benefit from better engagement tactics (e.g., interactive images, videos, or 
+           enhanced  descriptions).
 
 
-
+   ### Key Findings:
 
 
 
