@@ -34,11 +34,15 @@ To address the challenges and achieve the client’s goals, I employed a 3-step 
 
 The first step was to gather and analyze all available data to uncover critical insights into customer behavior, conversion trends, and website performance. This process laid the foundation for the CRO strategies that followed.
   
-I) Data Integration:Set up Google Analytics 4 (GA4) and integrated it with BigQuery to  collect and analyze website traffic, user behavior, and product performance data. This integration allowed for more advanced queries and deeper analysis of user journeys. 
+     I) Data Integration:Set up Google Analytics 4 (GA4) and integrated it with BigQuery to  collect and analyze website traffic, user behavior, and product performance data. This 
+        integration allowed for more advanced queries and deeper analysis of user journeys. 
 
-II) I analyze device, funnel, demographic, eCommerce, and traffic data to optimize user experience and improve conversion rates across platforms. Conducted a funnel analysis to identify where users were dropping off in the conversion  process. Using GA4 and BigQuery, I tracked key user interactions, from landing pages to  checkout completion. Using GA4 and BigQuery, I tracked key user interactions,from landing pages to  checkout completion. 
+    II) I analyze device, funnel, demographic, eCommerce, and traffic data to optimize user experience and improve conversion rates across platforms. Conducted a funnel analysis to 
+        identify where users were dropping off in the conversion  process. Using GA4 and BigQuery, I tracked key user interactions, from landing pages to  checkout completion. Using GA4 
+        and BigQuery, I tracked key user interactions,from landing pages to  checkout completion. 
 
-III) I use Microsoft Clarity to gain insights into user interactions through heatmaps and session recordings, identifying friction points and areas for improvement. This data helps optimize website design and user experience, ultimately boosting conversion rates and engagement.
+    III) I use Microsoft Clarity to gain insights into user interactions through heatmaps and session recordings, identifying friction points and areas for improvement. This data helps 
+        optimize website design and user experience, ultimately boosting conversion rates and engagement.
 
 
   ### Key Findings:
