@@ -1,4 +1,4 @@
-# Ecommerce Growth With Data Analytics, Powerful Reporting and Conversion Rate Optimization
+# Project Name: Conversion Rate Optimization Audit and Powerful Reporting
 ## Client: Trendy_Fashion Ecommerce Platform
 ## Industry: Fashion & Apparel
 ## Tools & Technology Used: GA4, Bigquery, SQL,  Looker Studio, Power BI, Microsoft Clarity
@@ -32,12 +32,12 @@ To address the challenges and achieve the client’s goals, I employed a 3-step 
 This approach was designed to uncover actionable insights, provide the client with clear performance metrics, and drive tangible improvements in eCommerce performance.
 
 ## Step 1: CRO Audit ( Hypothesis Generate )
-        I) Conducted an initial audit focusing on conversion optimization opportunities across key 
-           pages like the homepage, product pages, checkout page,thank you page and all tool setup 
-           check.
+        I) Conducted an initial audit focusing on conversion optimization opportunities 
+          across key  pages like the homepage, product pages, checkout page,thank you page 
+          and all tool  setup check.
 
-        II) Developed hypotheses for improving user experience, identifying potential friction 
-            points in the customer journey.
+        II) Developed hypotheses for improving user experience, identifying potential 
+            friction points in the customer journey.
             
   #### Key Findings: 
 
@@ -48,14 +48,8 @@ The Second step was to gather and analyze all available data to uncover critical
      I) Integrated GA4 with BigQuery to capture detailed, event-level data on user behavior, 
         providing a quantitative foundation for analysis.
 
-    II) Connected data sources to Looker Studio and Power BI for creating real-time, actionable 
-        insights. 
-
-    III) I use Microsoft Clarity to gain insights into user interactions through heatmaps and 
-         session recordings, identifying friction points and areas for improvement. This data 
-          helps optimize website design and user experience, ultimately boosting conversion rates 
-          and engagement.
-
+    II) Connected data sources to Looker Studio and Power BI for creating real-time, 
+        actionable insights. 
 
   #### Key Findings:
 
