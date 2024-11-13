@@ -1,4 +1,4 @@
-# Project Name: Conversion Rate Optimization Audit and Powerful Reporting
+# Project Name: Increase Ecommerce Sales With Conversion Rate Optimization Audit and Data Analytics Solution.
 ## Client: Trendy_Fashion Ecommerce Platform
 ## Industry: Fashion & Apparel
 ## Tools & Technology Used: 
@@ -46,7 +46,7 @@ This approach was designed to uncover actionable insights, provide the client wi
             
   #### Key Findings: 
 
-## Step 2: Data Analytics Integration:
+## Step 2: Data Analytics Integration ( Google Analytics 4 + Google Bigquery ):
 
 The Second step was to gather and analyze all available data to uncover critical insights into customer behavior, conversion trends, and website performance. This process laid the foundation for the CRO strategies that followed.
   
@@ -58,7 +58,7 @@ The Second step was to gather and analyze all available data to uncover critical
 
   #### Key Findings:
 
-## Powerful Reporting with Qualitative and Quantitative Data:
+## Powerful Reporting with Qualitative and Quantitative Data ( Looker Studio + Microsoft Clarity ):
         I) Built a customized dashboard in Looker Studio to monitor key metrics like traffic 
            sources, funnel analysis, device analysis, and eCommerce overview.
 
