@@ -1,6 +1,6 @@
 ## Project Name: Increase Ecommerce Sales With Conversion Rate Optimization Audit and Data Analytics Solution.
-### Client: Trendy_Fashion Ecommerce Platform
-### Industry: Fashion & Apparel
+## Client: Trendy_Fashion Ecommerce Platform
+## Industry: Fashion & Apparel
 ## Tools & Technology Used: Google Analytics 4, Bigquery, SQL, Looker Studio, Microsoft Clarity, Power BI
 
 ## Project Overview:
@@ -51,7 +51,6 @@ The Second step was to gather and analyze all available data to uncover critical
     II) Connected data sources to Looker Studio and Power BI for creating real-time, 
         actionable insights. 
 
-  #### Key Findings:
 
 ## Step 3: Powerful Reporting with Qualitative and Quantitative Data ( Looker Studio + Microsoft Clarity ):
         I) Built a customized dashboard in Looker Studio to monitor key metrics like traffic 
