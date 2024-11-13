@@ -1,7 +1,12 @@
 # Project Name: Conversion Rate Optimization Audit and Powerful Reporting
 ## Client: Trendy_Fashion Ecommerce Platform
 ## Industry: Fashion & Apparel
-## Tools & Technology Used: GA4, Bigquery, SQL,  Looker Studio, Power BI, Microsoft Clarity
+## Tools & Technology Used: 
+      I) Data Collection Setup: Google Analytics 4 (GA4)
+     II) Data Storage and Processing: Google Bigquery + SQL
+     III) Data Modeling and Aggregation: Google Bigquery + DBT
+     IV) Dashboarding and Visualization: Looker Studio + Google BigQuery
+     V) Behavioral Analytics and Reporting: Microsoft Clarity
 
 ## Project Overview:
 Trendy is a rapidly growing eCommerce fashion retailer offering a diverse collection of clothing and accessories for both men and women. Despite having a strong product range and a growing customer base, Trendy faced challenges with improving key eCommerce metrics such as conversion rates, cart abandonment, and average order value (AOV). As a result, the client engaged me to conduct a comprehensive audit & Powerful Reporting  and implement a data-driven strategy to optimize their website for greater customer conversion and revenue growth.
