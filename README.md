@@ -1,12 +1,7 @@
-# Project Name: Increase Ecommerce Sales With Conversion Rate Optimization Audit and Data Analytics Solution.
-## Client: Trendy_Fashion Ecommerce Platform
-## Industry: Fashion & Apparel
-## Tools & Technology Used: 
-      I) Data Collection Setup: Google Analytics 4 (GA4)
-     II) Data Storage and Processing: Google Bigquery + SQL
-     III) Data Modeling and Aggregation: Google Bigquery + DBT
-     IV) Dashboarding and Visualization: Looker Studio + Google BigQuery
-     V) Behavioral Analytics and Reporting: Microsoft Clarity
+## Project Name: Increase Ecommerce Sales With Conversion Rate Optimization Audit and Data Analytics Solution.
+### Client: Trendy_Fashion Ecommerce Platform
+### Industry: Fashion & Apparel
+## Tools & Technology Used: Google Analytics 4, Bigquery, SQL, Looker Studio, Microsoft Clarity, Power BI
 
 ## Project Overview:
 Trendy is a rapidly growing eCommerce fashion retailer offering a diverse collection of clothing and accessories for both men and women. Despite having a strong product range and a growing customer base, Trendy faced challenges with improving key eCommerce metrics such as conversion rates, cart abandonment, and average order value (AOV). As a result, the client engaged me to conduct a comprehensive audit & Powerful Reporting  and implement a data-driven strategy to optimize their website for greater customer conversion and revenue growth.
@@ -28,7 +23,7 @@ To address the challenges and achieve the client’s goals, I employed a 3-step 
 
       I) CRO Audit
       
-      II) Data Analytics Integration
+      II) Data Analytics Integration 
       
       III) Powerful Reporting with Qualitative and Quantitative Data.
 
@@ -46,7 +41,7 @@ This approach was designed to uncover actionable insights, provide the client wi
             
   #### Key Findings: 
 
-## Step 2: Data Analytics Integration ( Google Analytics 4 + Google Bigquery ):
+## Step 2: Data Analytics Integration ( Google Analytics 4 + Google Bigquery, SQL ):
 
 The Second step was to gather and analyze all available data to uncover critical insights into customer behavior, conversion trends, and website performance. This process laid the foundation for the CRO strategies that followed.
   
@@ -58,17 +53,13 @@ The Second step was to gather and analyze all available data to uncover critical
 
   #### Key Findings:
 
-## Powerful Reporting with Qualitative and Quantitative Data ( Looker Studio + Microsoft Clarity ):
+## Step 3: Powerful Reporting with Qualitative and Quantitative Data ( Looker Studio + Microsoft Clarity ):
         I) Built a customized dashboard in Looker Studio to monitor key metrics like traffic 
            sources, funnel analysis, device analysis, and eCommerce overview.
 
         II) Leveraged Microsoft Clarity for qualitative data on user behavior, using features 
             like heatmaps, session recordings, and scroll maps to gain deeper insights into 
             how users interact with the site.
-
-        III) Analyzed Clarity’s and GA4 insights on pain points and interaction patterns to 
-             identify and prioritize UX improvements, particularly around pages with high 
-             drop-  off or engagement issues.
 
   #### Key Findings:
 
@@ -86,13 +77,14 @@ The Second step was to gather and analyze all available data to uncover critical
 
 
 ## Deliver For Clients:
-        I) Custom Dashboard( Minimum 5 Page ): A Looker Studio dashboard showing key GA4 
-            metrics.
+        I) CRO Audit Report
+         
+        II) Custom Dashboard( Minimum 5 Page ): A Looker Studio dashboard showing key GA4 metrics.
 
-        II) CRO Summary Report: Main findings, prioritized recommendations, and quick, 
+        III) CRO Summary Report: Main findings, prioritized recommendations, and quick, 
             impactful adjustments.
 
-       III) Microsoft Clarity Insights: Key insights from heatmaps and session replays.
+        IV) Microsoft Clarity Insights: Key insights from heatmaps and session replays.
 
 
 ## Outcome:
