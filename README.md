@@ -28,8 +28,12 @@ Trendy is a rapidly growing eCommerce fashion retailer offering a diverse collec
 ### Approach:
 
   #### Step 1: Data Collection and Analysis:
+   ##### Objective:  Gather and analyze data to identify high-level trends and areas for optimization.
+      
              I) Implemented Google Analytics 4 (GA4) to track user behavior.
+             
              II) Analyzed user funnels and drop-off points in BigQuery.
+             
              II) Built a Looker Studio Dashboard for real-time tracking.
              
   #### Analyze key metric:
@@ -42,6 +46,20 @@ Trendy is a rapidly growing eCommerce fashion retailer offering a diverse collec
           iv) Funnel analysis to identify drop-off points.
 
           V) Identify key performance metrics for your CRO analysis: conversion rate, average session duration, engagement rate, and exit rates.
+
+
+### Step 2: Analyze User Behavior with Microsoft Clarity:
+
+   Objective: Gain qualitative insights into how users interact with your website, focusing on pain points and friction.
+   
+   #### Key Actions:
+        I) Heatmaps: Implemented Microsoft Clarity to analyze click heatmaps and scroll heatmaps, identifying which elements users engage with and where they drop off.
+
+        II ) Session Recordings: Reviewed session replays to spot user frustrations, such as misclicks, form abandonment, and issues during checkout.
+
+        III ) Behavior Patterns: Identified conversion barriers like failed form submissions and high drop-off during key actions (e.g., adding items to the cart or entering checkout).
+
+        Iv ) User Segmentation: Segmented user behavior by device (mobile, desktop, tablet) to pinpoint platform-specific issues.
  
 
 
